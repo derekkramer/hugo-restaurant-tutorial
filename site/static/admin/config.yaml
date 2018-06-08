@@ -1,7 +1,7 @@
 backend:
   name: github
   repo: derekkramer/hugo-restaurant-tutorial
-  branch: master
+  branch: live
 
 media-folder: "src/img/gallery"
 
